@@ -1,0 +1,12 @@
+{
+  "extends": "standard",
+
+  rules: {
+    "no-new": 0,
+    "no-trailing-spaces": 0,
+    "space-infix-ops": 0,
+    "spaced-comment": 0
+  },
+
+  "plugins": ["html"]
+}
